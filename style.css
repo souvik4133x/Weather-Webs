@@ -8,6 +8,8 @@ body {
     font-family: 'Baloo 2', cursive;
     
     background: url('https://cdn.wallpapersafari.com/94/90/rGcqlU.jpg');
+     background-size: cover;
+    background-repeat: no-repeat;
     font-size: 110%;
 }
 .card {
